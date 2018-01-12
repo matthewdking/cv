@@ -8,11 +8,11 @@ I'm a full-stack web developer looking to further develop my technical skills wh
 
 **Databases**: PSQL, MongoDB/Mongoose
 
-**Frameworks/Libraries**: Express, Handlebars, Tachyons
+**Frameworks/Libraries**: Express, Handlebars, Tachyons, React, Redux
 
 **Testing**: Mocha, Chai, Tape, Istanbul/nyc
 
-I am always pushing myself to learn new technologies. The project I am currently working on is being built using React and Redux.
+I am always pushing myself to learn new technologies. I am currently teaching myself elm.
 
 ## Education
 
@@ -20,9 +20,9 @@ I am always pushing myself to learn new technologies. The project I am currently
 
 _July 2017 - October 2017_
 
-- Self organising learning environment encouraging peer to peer learning.
-- Highly involved in the community such as the weekly coding for everyone meetup.
-- Worked on a variety of projects - goal setting app, design sprint and job exposure for young adults in Israel.
+* Self organising learning environment encouraging peer to peer learning.
+* Highly involved in the community such as the weekly coding for everyone meetup.
+* Worked on a variety of projects - goal setting app, design sprint and job exposure for young adults in Israel.
 
 **University of Sheffield, BEng (Hons) Mechanical Engineering 2:1**
 
@@ -30,15 +30,15 @@ _September 2013 - July 2016_
 
 Modules included:
 
-- Essential mathematical skills and techniques
-- Engineering mechanics
-- Electric circuits
-- Mathematics for modelling
-- Finance and law
-- Computational and numerical methods
-- Sensors, actuators and controllers
-- Mechatronics
-- Thesis titled: System dynamic modelling of a new wind turbine drivetrain using Matlab/Simulink
+* Essential mathematical skills and techniques
+* Engineering mechanics
+* Electric circuits
+* Mathematics for modelling
+* Finance and law
+* Computational and numerical methods
+* Sensors, actuators and controllers
+* Mechatronics
+* Thesis titled: System dynamic modelling of a new wind turbine drivetrain using Matlab/Simulink
 
 **Wyggeston & Queen Elizabeth I College, A Levels:**
 
@@ -52,16 +52,16 @@ Mathematics (A), Economics (A), Physics (B)
 
 _July 2015 - September 2016_
 
-+ Working at a sports centre to plan, organise and execute the running of engaging sports activities for children.
-+ Due to experience and organisational skills I became a 'floating' member of staff to support and offer my expertise to other members of staff.
-+ One to one experience with children with a wide range of disabilities.
+* Working at a sports centre to plan, organise and execute the running of engaging sports activities for children.
+* Due to experience and organisational skills I became a 'floating' member of staff to support and offer my expertise to other members of staff.
+* One to one experience with children with a wide range of disabilities.
 
 **Assistant Tennis Coach, InsideOut Tennis, Loughborough**
 
 _April 2010 - July 2017_
 
-+ Planning and running tennis lessons for children from age 4-18.
-+ Key team member for the delivery of an adult special needs lessons.
+* Planning and running tennis lessons for children from age 4-18.
+* Key team member for the delivery of an adult special needs lessons.
 
 ### Voluntary Work
 
@@ -71,6 +71,6 @@ _April 2010 - July 2017_
 
 ## Interests
 
-- Tennis - I have played competitive tennis for over 10 years, competing for my home club and representing the University of Sheffield for 3 years. During my second year at University I became club treasurer.
-- Bouldering - a sport I picked up 2 years ago which appeals to my sporting and problem solving mind to tackle every route.
-- Photography - passionate about producing high quality pictures especially whilst travelling. I have recently started exploring film photography in SLR and instant format.
+* Tennis - I have played competitive tennis for over 10 years, competing for my home club and representing the University of Sheffield for 3 years. During my second year at University I became club treasurer.
+* Bouldering - a sport I picked up 2 years ago which appeals to my sporting and problem solving mind to tackle every route.
+* Photography - passionate about producing high quality pictures especially whilst travelling. I have recently started exploring film photography in SLR and instant format.
