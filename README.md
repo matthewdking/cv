@@ -1,6 +1,6 @@
 # Matt King
 
-I'm a full-stack web developer looking to further develop my technical skills while mentoring the next cohort of Founders & Coders in Nazareth. I love peer-led learning, and want to encourage this model of self-organised learning. I am passionate about the environment and sustainability, and always looking for projects with a positive footprint.
+I'm a full-stack web developer with several months experience mentoring students in Nazareth and Gaza. I have experience building projects in a variety of technologies and am currently QA on a number of student projects in Gaza. I love peer-led learning, and want to encourage this model of self-organised learning. I am passionate about the environment and sustainability, and always looking for projects with a positive footprint.
 
 ## Technologies
 
@@ -12,7 +12,15 @@ I'm a full-stack web developer looking to further develop my technical skills wh
 
 **Testing**: Mocha, Chai, Tape, Istanbul/nyc
 
-I am always pushing myself to learn new technologies. I am currently teaching myself elm.
+I am always pushing myself to learn new technologies. I am currently teaching myself elm :deciduous_tree:
+
+## Projects
+
+#### [Path 18](https://github.com/facn2/path-18-app)
+
+_App aiming to expose young people in Israel to a variety of career paths_
+
+* Tech stack - react, redux, express, handlebars, PSQL
 
 ## Education
 
@@ -48,6 +56,15 @@ Mathematics (A), Economics (A), Physics (B)
 
 ## Experience
 
+**Mentor at Founders and Coders**
+
+_October 2017 - Present_
+
+* Preparing and running workshops from the Founders and Coders curriculum.
+* Running design and ideation sessions.
+* Code reviewing student projects on a weekly basis.
+* Attending to the pastoral needs of students.
+
 **Active Kids Leader, S10 Health, Sheffield**
 
 _July 2015 - September 2016_
@@ -61,7 +78,7 @@ _July 2015 - September 2016_
 _April 2010 - July 2017_
 
 * Planning and running tennis lessons for children from age 4-18.
-* Key team member for the delivery of an adult special needs lessons.
+* Key team member for the delivery of a adult special needs lessons.
 
 ### Voluntary Work
 
